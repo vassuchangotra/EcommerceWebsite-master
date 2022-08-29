@@ -19,11 +19,11 @@ Landing Page:
 ---
 Product Preview:
 
-![](src/assets/preview-page.png)
+![](src/Assets/prod.png)
 ---
 Sign-in && Sign-Up Page:
 
-![](src/assets/signinup.png)
+![](src/Assets/signupp.png)
 
 Cart Section:
 
