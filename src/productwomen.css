@@ -1,0 +1,9 @@
+.prowomen > div{
+    display: contents;
+}
+.cardwomen{
+    transition: all 1s ease-in;
+}
+.cardwomen:hover{
+    transform: scale(1.05);
+}

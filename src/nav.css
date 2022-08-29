@@ -1,0 +1,23 @@
+.nav{
+    position: fixed;
+    top:0;
+    z-index: 1;
+    transition: 0.2s ease-out;
+    background-color: black;
+}
+.nav_back{
+    transition: 0.2s ease-in;
+    background-color: white;
+}
+.first{
+    position: fixed;
+    left:20px;
+    width:80px;
+    object-fit: contain;
+}
+.second{
+    position: fixed;
+    right: 100px;
+    width: 30px;
+    object-fit: contain;
+}

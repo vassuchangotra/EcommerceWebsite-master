@@ -1,0 +1,9 @@
+.promen > div{
+    display: contents;
+}
+.cardmen{
+    transition: all 1s ease-in;
+}
+.cardmen:hover{
+    transform: scale(1.05);
+}
