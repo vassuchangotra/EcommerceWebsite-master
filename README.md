@@ -11,3 +11,20 @@ The application is composed of the following Features:
 - A Side Navbar to quickly shuffle through the website.
 - Has a cart feature which opens up and displays the items selected in a summary, also has a checkout button.
 
+**SCREENSHOTS:**
+
+Landing Page:
+
+![](src/Assets/home.png)
+---
+Product Preview:
+
+![](src/assets/preview-page.png)
+---
+Sign-in && Sign-Up Page:
+
+![](src/assets/signinup.png)
+
+Cart Section:
+
+![](src/assets/cart.png)
