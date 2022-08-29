@@ -20,11 +20,25 @@ Landing Page:
 Product Preview:
 
 ![](src/Assets/prod.png)
+
+![](src/Assets/product.png)
 ---
 Sign-in && Sign-Up Page:
 
 ![](src/Assets/signupp.png)
+---
+NavBar:
 
+![](src/Assets/nav.png)
+---
+Product Filter:
+
+![](src/Assets/filter.png)
+---
 Cart Section:
 
-![](src/assets/cart.png)
+![](src/Assets/cart.png)
+---
+
+
+
