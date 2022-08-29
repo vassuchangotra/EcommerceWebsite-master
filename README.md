@@ -42,5 +42,14 @@ Cart Section:
 ![](src/Assets/cart.png)
 ---
 
+### Back-End and Data base
+
+* The Website uses MongoDB for the database and NodeJS for backend handling.
+* Mongo is also used to store user data including log-in information and adress details.
+* It also stores the cart data and orders completed.
+---
+
+Data Preview:
+![](src/Assets/back.png)
 
 
