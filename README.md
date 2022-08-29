@@ -36,6 +36,11 @@ Product Filter:
 
 ![](src/Assets/filter.png)
 ---
+Editable Profiles:
+- Password change and adress change features for profiles.
+
+![](src/Assets/change.png)
+---
 Cart Section:
 - Has a cart feature which opens up and displays the items selected in a summary, also has a checkout button.
 
